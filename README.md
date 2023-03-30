@@ -1,6 +1,6 @@
-# Frontend Mentor - Product preview card component solution
+Product preview card component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
 
 ## Table of contents
 
@@ -49,4 +49,3 @@ I plan on studying more about grids, columns, and other ways of displaying conte
 
 - Linkedin - [Thainá Silveira](https://www.linkedin.com/in/thain%C3%A1-alves-silveira-77197a190)
 
-- Frontend Mentor - [@thaiisilveira](https://www.frontendmentor.io/profile/yourusername)
